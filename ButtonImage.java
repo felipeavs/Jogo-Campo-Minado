@@ -18,7 +18,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author felip
+ * @author felipe
  */
 public class ButtonImage extends javax.swing.JButton {
     
@@ -29,7 +29,6 @@ public class ButtonImage extends javax.swing.JButton {
     
     //Para facilitar na hora de gerar as posições das bombas
     private int codigo;
-    //Não sei para que serve
     private int i; //linha na qual o ButtonImage se encontra na tabela
     private int j;// coluna na qual o ButtonImage se encontra na tabela
        
